@@ -12,7 +12,7 @@
 
 ## Description
 
-_This is a basic HTML webpage as practice for writing code in line with lessons taught by [Epicodus](https://www.epicodus.com). This webpage can serve as the framework for starting your own code writing journey as regards working with HTML tags and attributes, as well as the beginnings of CSS_
+_This is a basic HTML webpage as practice for writing code in line with lessons taught by [Epicodus](https://www.epicodus.com). This webpage can serve as the framework for starting your own code writing journey as regards working with HTML tags and attributes, as well as the beginnings of CSS. If you would like to follow in these lessons, please visit [Learn How To Program](https://www.learnhowtoprogram.com/introduction-to-programming-part-time)._
 
 ## Setup/Installation Requirements
 
